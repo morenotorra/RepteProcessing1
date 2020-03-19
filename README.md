@@ -1,3 +1,3 @@
 # RepteProcessing1
-** Oriol Moreno
+## Oriol Moreno
 Primer exercici de classe de Processing. 
